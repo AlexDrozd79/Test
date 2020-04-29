@@ -1,4 +1,2 @@
 This is first file
 la la la
-be be be
-ce ce ce
